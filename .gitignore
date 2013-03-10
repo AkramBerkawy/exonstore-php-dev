@@ -1,0 +1,11 @@
+# Ignore bundler config
+/system/cache/*
+/cache/*
+/system/log/*
+# Ignore all doc,logfiles and tempfiles.
+/log/*.log
+/tmp
+*~
+*.swp
+*.swo
+*/*.swp
